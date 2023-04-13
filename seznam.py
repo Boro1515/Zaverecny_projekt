@@ -1,0 +1,3 @@
+seznam_lidi = []
+
+
